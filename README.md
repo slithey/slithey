@@ -1,6 +1,13 @@
 I'm slithey, a bad developer!
 
 Languages:
--  js 
-- html, css
-- some C#
+- JS
+- HTML, CSS
+- Some C#
+- English (lol)
+
+Main Active Project:
+- Discord Bot Workshop 
+
+Discord: 
+Slithey#7570
